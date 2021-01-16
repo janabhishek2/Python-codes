@@ -18,8 +18,10 @@ print(f"x is {x} y is {y}")
 # 0
 # ""
 # None
-
+# []
 # All others are trusy
 
 print(bool(""))  # falsy
 print(bool("False"))  # true
+
+# primitive data types in python : stings,numbers,booleans
